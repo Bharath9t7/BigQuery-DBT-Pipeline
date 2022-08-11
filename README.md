@@ -1,1 +1,1 @@
-# BigQuery-DBT-Pipeline
+# Dimentional data modelling using DBT and BigQuery
